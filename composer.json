@@ -1,0 +1,13 @@
+{
+    "name": "task6/sitemap",
+    "description": "snowdog-task-6",
+    "type": "task-library",
+    "autoload": {
+        "psr-4": {
+            "Task6\\Sitemap\\": "src"
+        },
+        "files": [
+            "src/components.php"
+        ]
+    }
+}
